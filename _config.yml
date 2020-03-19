@@ -1,11 +1,11 @@
 # Site settings
 author: Amber Kerawala
-title: 
+title: Scientist to Developer
 header-img: img/home-bg.png
 email: amber_kerawala@berkeley.edu
 copyright_name: Amber Kerawala
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  amkera
